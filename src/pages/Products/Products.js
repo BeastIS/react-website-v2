@@ -1,6 +1,6 @@
-import React from 'react';
-import { InfoSection } from '../../components';
-import { homeObjOne, homeObjTwo } from './Data';
+import React from "react";
+import { InfoSection } from "../../components";
+import { homeObjOne, homeObjTwo } from "./Data";
 
 function Products() {
   return (
